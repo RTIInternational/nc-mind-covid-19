@@ -1,0 +1,114 @@
+Include,Name,UNC,County,LAT,LON,ptorg name,Licensed Name (2017),Facility_ID,Beds,ICU Beds
+1,Alamance Regional Medical Center,0,Alamance,36.0612027,-79.5017657,Alamance Regional Medical Center,Alamance Regional Medical Center,954565,182,32
+1,Alleghany Memorial Hospital,0,Alleghany,36.5094773,-81.1146651,Alleghany Memorial Hospital,Alleghany Memorial Hospital,942935,41,4
+1,Angel Medical Center,0,Macon,35.18455285,-83.37914859,Angel Medical Center,"Angel Medical Center, Inc.",942938,59,6
+1,Annie Penn Hospital,0,Rockingham,36.35378,-79.66626,Annie Penn Hospital,Annie Penn Hospital,932940,110,8
+1,Anson County Hospital,0,Anson,34.97751385,-80.11005802,Anson County Hospital,Carolinas HealthCare System Anson,120335,15,0
+1,Ashe Memorial Hospital,0,Ashe,36.4234688,-81.45782192,Ashe Memorial Hospital,"Ashe Memorial Hospital, Inc.",942944,76,8
+1,Betsy Johnson Hospital,0,Harnett,35.3068297,-78.6347374,Betsy Johnson Hospital,Betsy Johnson  Hospital,922969,151,6
+1,Blue Ridge HealthCare Hospitals,0,Burke,35.726315,-81.654694,Blue Ridge Healthcare Hospitals,Carolinas HealthCare System Blue Ridge,943191,293,16
+1,Blue Ridge Regional Hospital,0,Mitchell,35.91149025,-82.06207583,Blue Ridge Regional Hospital,"Blue Ridge Regional Hospital, Inc",953466,46,5
+1,CMC - Pineville,0,Mecklenburg,35.09203755,-80.87159653,Pineville Patient County Of Residence By Hospital,Carolinas HealthCare System Pineville,110878,206,40
+1,Caldwell Memorial Hospital,1,Caldwell,35.91059635,-81.53513749,Caldwell Memorial Hospital,"Caldwell Memorial Hospital, Inc.",933051,110,12
+1,Cape Fear Valley Health System,0,Cumberland,35.0318114,-78.933272,Cape Fear Valley Health System,Cape Fear Valley Medical Center,943057,524,69
+1,Cape Fear Valley Hoke Hospital,0,Hoke,35.029919,-79.107269,Cape Fear Valley Hoke Hospital,Cape Fear Valley Hoke Hospital,100392,41,4
+1,Cape Fear Valley-Bladen County Hospital,0,Bladen,34.62262,-78.608017,Cape Fear Valley-Bladen County Hospital,Cape Fear Valley-Bladen County Hospital,942974,48,5
+1,CaroMont Regional Medical Center,0,Gaston,35.27215775,-81.13954344,Caromont Regional Medical Center,Caromont Regional Medical Center,943184,372,37
+1,CarolinaEast Medical Center,0,Craven,35.11381805,-77.06627783,Carolinaeast Medical Center,CarolinaEast Medical Center,923126,307,33
+1,Carolinas HealthCare System Carolinas Medical Center,0,Mecklenburg,35.203457,-80.83857,Carolinas Healthcare System Carolinas Medical Center,Carolinas Medical Center/Center for Mental Health,943070,1010,222
+1,Carolinas HealthCare System Kings Mountain Hospital,0,Cleveland,35.2417273,-81.35685883,Carolinas Healthcare System Kings Mountain Hospital,Carolinas HealthCare System Kings Mountain,943292,47,0
+1,Carolinas HealthCare System University Hospital,0,Mecklenburg,35.3054619,-80.74690396,Carolinas Healthcare System University Hospital,Carolinas HealthCare System University,923516,100,15
+1,Carolinas Medical Center - Lincoln,0,Lincoln,35.4900947,-81.20307636,Lincoln Patient County Of Residence By Hospital,Carolinas HealthCare System Lincoln,70062,101,10
+1,Carolinas Medical Center Northeast,0,Cabarrus,35.4375493,-80.6020838,Carolinas Medical Center Northeast,Carolinas HealthCare System NorthEast,943049,447,69
+1,Carteret County General Hospital,0,Carteret,34.7258964,-76.75520666,Carteret County General Hospital,Carteret General Hospital,923076,135,0
+1,Catawba Valley Medical Center,0,Catawba,35.713734,-81.267334,Catawba Valley Medical Center,Catawba Valley Medical Center,933080,200,36
+1,Central Carolina Hospital,0,Lee,35.46909645,-79.18688403,Central Carolina Hospital,Central Carolina Hospital,953084,127,10
+1,Central Harnett Health,0,Harnett,35.425739,-78.807976,Central Harnett Health,Central Harnett Health,,100,10
+1,Charles A. Cannon Jr. Memorial Hospital,0,Avery,36.060516,-81.889259,Charles A. Cannon Jr. Memorial Hospital,"Charles A. Cannon, Jr. Memorial Hospital, Incorporated",943054,30,3
+1,Chatham Hospital,1,Chatham,35.72282835,-79.42112556,Chatham Hospital,"Chatham Hospital, Inc.",933098,25,3
+1,Cleveland Regional Medical Center,0,Cleveland,35.302834,-81.53566,Cleveland Regional Medical Center,Carolinas HealthCare System Cleveland,953106,241,18
+1,Columbus Regional Healthcare System,0,Columbus,34.33734065,-78.69445306,Columbus Regional Healthcare System,Columbus Regional Healthcare System,923111,154,9
+1,Cone Health,0,Guilford,36.043952,-79.96505773,Cone Health,Cone Health,943494,777,124
+1,Davie County Hospital,0,Davie,35.899555,-80.571938,Davie County Hospital,Davie Medical Center,80175,50,5
+1,Davis Medical Center,0,Iredell,35.8191549,-80.82917194,Davis Medical Center,Davis Regional Medical Center,923134,50,8
+1,Duke Raleigh,0,Wake,35.82859565,-78.61794743,Duke Raleigh,Duke Raleigh Hospital,923421,186,15
+1,Duke Regional Hospital,0,Durham,36.03649455,-78.89963755,Duke Regional Hospital,Duke Regional Hospital,923142,316,28
+1,Duke University Medical Center,0,Durham,36.0070213,-78.93734788,Duke University Medical Center,Duke University Hospital,943138,938,252
+1,First Health Montgomery Hospital,0,Montgomery,35.3647651,-79.89068812,First Health Montgomery Hospital,FirstHealth Montgomery Memorial Hospital,923355,37,4
+1,First Health Moore Regional Hospital,0,Moore,35.205566,-79.456421,First Health Moore Regional Hospital,FirstHealth Moore Reg. Hosp. and Pinehurst Treatment,943358,337,57
+1,First Health Richmond Memorial Hospital,0,Richmond,34.928806,-79.749695,First Health Richmond Memorial Hospital,FirstHealth Moore Regional Hospital-Richmond,933431,99,12
+0,FirstHealth Moore Regional Hospital - Hamlet,0,Richmond,34.90178,-79.708411,Hamlet Patient County Of Residence By Hospital,FirstHealth Moore Regional Hospital-Hamlet,195,54,5
+1,FirstHealth Moore Regional Hospital - Hoke Campus,0,Hoke,35.02033965,-79.1502175,Hoke Campus Patient County Of Residence By Hospital,FirstHealth Moore Regional Hospital - Hoke Campus,100390,8,0
+1,Frye Regional Medical Center,0,Catawba,35.7373084,-81.33809331,Frye Regional Medical Center,Frye Regional Medical Center,943182,209,30
+1,Granville Health System,0,Granville,36.3270928,-78.59215043,Granville Health System,Granville Health System,943195,62,6
+1,Halifax Regional Medical Center,0,Halifax,36.4324228,-77.64626592,Halifax Regional Medical Center,"Halifax Regional Medical Center, Inc.",923223,184,8
+1,Haywood Regional Medical Center,0,Haywood,35.5252312,-82.9427378,Haywood Regional Medical Center,Haywood Regional Medical Center,933234,126,10
+1,High Point Regional Hospital,1,Guilford,35.962532,-80.014114,High Point Regional Hospital,High Point Regional Health,943251,307,28
+1,Highlands-Cashiers Hospital,0,Macon,35.0863677,-83.18570452,Highlands-Cashiers Hospital,"Highlands-Cashiers Hospital, Inc.",943256,24,2
+1,Hugh Chatham Memorial Hospital,0,Surry,36.2618023,-80.83910119,Hugh Chatham Memorial Hospital,"Hugh Chatham Memorial Hospital, Inc.",923276,81,8
+1,Iredell Health System,0,Iredell,35.80037305,-80.87873772,Iredell Health System,"Iredell Memorial Hospital, Incorporated",933284,199,16
+1,J. Arthur Dosher Memorial Hospital,0,Brunswick,33.92933025,-78.02137632,J. Arthur Dosher Memorial Hospital,J. Arthur Dosher Memorial Hospital,923286,25,3
+1,Johnston Health Clayton,1,Johnston,35.64164,-78.47246,Johnston Health Clayton,Johnston Health,943290,179,16
+1,Johnston Health Smithfield,1,Smithfield,35.513229,-78.333717,Johnston Health Smithfield,Johnston Health,943290,179,16
+1,Lake Norman Regional Medical Center,0,Iredell,35.5493162,-80.85379414,Lake Norman Regional Medical Center,Lake Norman Regional Medical Center,990475,123,12
+1,Lenoir Memorial Hospital,1,Lenoir,35.2904187,-77.58361715,Lenoir Memorial Hospital,UNC Lenoir Health Care,933304,218,14
+1,Lexington Memorial Hospital,0,Davidson,35.80575965,-80.28693632,Lexington Memorial Hospital,Lexington Medical Center,943307,94,9
+1,LifeBrite Community Hospital of Stokes,0,Stokes,36.418053,-80.230896,Lifebrite Community Hospital Of Stokes,LifeBrite Community Hospital of Stokes,943474,53,5
+1,Margaret R. Pardee Memorial Hospital,1,Henderson,35.320967,-82.467171,Margaret R. Pardee Memorial Hospital,Margaret R. Pardee Memorial Hospital,943324,201,20
+1,Maria Parham Hospital,0,Vance,36.3310103,-78.44955313,Maria Parham Hospital,Maria Parham  Medical Center,943326,91,8
+1,Martin General Hospital,0,Martin,35.8396528,-77.07213121,Martin General Hospital,Martin General Hospital,943328,49,6
+1,McDowell Hospital,0,McDowell,35.622311,-81.985718,Mcdowell Hospital,The McDowell Hospital,943492,65,6
+1,MedWest Harris,0,Jackson,35.3854052,-83.20260902,Medwest Harris,Harris Regional Hospital,923046,86,9
+1,MedWest Swain,0,Swain,35.43446,-83.444763,Medwest Swain,Swain Community Hospital,923480,48,5
+1,Mission Hospital,0,Buncombe,35.5766889,-82.54922486,Mission Hospital,Mission Hospital,943349,708,131
+1,Murphy Medical Center,0,Cherokee,35.07282125,-83.96709011,Murphy Medical Center,"Murphy Medical Center, Inc.",943366,57,6
+1,Nash Health Care System,1,Nash,35.97620545,-77.85358506,Nash Health Care System,Nash General Hospital,933368,262,18
+1,New Hanover Regional Medical Center,0,New Hanover,34.2050891,-77.92105615,New Hanover Regional Medical Center,New Hanover Regional Medical Center,943372,647,105
+0,North Carolina Specialty Hospital,0,Durham,36.04305485,-78.89685681,North Carolina Specialty Hospital,North Carolina Specialty Hospital,943374,18,0
+1,Northern Hospital of Surry County,0,Surry,36.48911485,-80.61229628,Northern Hospital Of Surry County,Northern Hospital of Surry County,953376,100,10
+1,Novant Health Brunswick Medical Center,0,Brunswick,34.008957,-78.290123,Novant Health Brunswick Medical Center,Novant Health Brunswick Medical Center,61342,74,5
+0,Novant Health Charlotte Orthopedic Hospital,0,Mecklenburg,35.210739,-80.823624,Novant Health Charlotte Orthopedic Hospital,Novant Health Charlotte Orthopedic Hospital,953416,64,0
+0,Novant Health Clemmons Medical Center,0,Clemmons,36.02823,-80.39811,Novant Health Clemmons Medical Center,,,,
+1,Novant Health Forsyth Medical Center,0,Forsyth,36.076046,-80.296875,Novant Health Forsyth Medical Center,Novant Health Forsyth Medical Center,923174,823,148
+1,Novant Health Huntersville Medical Center,0,Mecklenburg,35.4064661,-80.8600158,Novant Health Huntersville Medical Center,Novant Health Huntersville Medical Center,990440,91,8
+0,Novant Health Kernersville Medical Center,0,Forsyth,36.091309,-80.044022,Novant Health Kernersville Medical Center,Novant Health Kernersville Medical Center,,100,4
+1,Novant Health Matthews Medical Center,0,Mecklenburg,35.120087,-80.714058,Novant Health Matthews Medical Center,Novant Health Matthews Medical Center,945076,154,18
+1,Novant Health Medical Park Hospital,0,Forsyth,36.07897555,-80.29607896,Novant Health Medical Park Hospital,Novant Health Medical Park Hospital,943343,22,0
+1,Novant Health Presbyterian Medical Center,0,Mecklenburg,35.21243755,-80.82430051,Novant Health Presbyterian Medical Center,Novant Health Presbyterian Medical Center,943501,567,93
+1,Novant Health Rowan Medical Center,0,Rowan,35.6816495,-80.47113042,Novant Health Rowan Medical Center,Novant Health Rowan Medical Center,933436,203,20
+1,Novant Health Thomasville Medical Center,0,Davidson,35.87981,-80.111618,Novant Health Thomasville Medical Center,Novant Health Thomasville Medical Center,923112,101,13
+1,Onslow Memorial Hospital,0,Onslow,34.76247565,-77.38533118,Onslow Memorial Hospital,"Onslow Memorial Hospital, Inc.",923383,162,30
+1,Outer Banks Hospital,0,Dare,35.93964995,-75.61819547,Outer Banks Hospital,"The Outer Banks Hospital, Inc.",980550,21,2
+1,Park Ridge Health,0,Henderson,35.389938,-82.488152,Park Ridge Health,Park Ridge Health,943388,62,6
+1,Pender Memorial Hospital,0,Pender,34.5505574,-77.91980849,Pender Memorial Hospital,"Pender Memorial Hospital, Inc.",923394,43,4
+1,Person County Memorial Hospital,0,Person,36.40848405,-78.98524838,Person County Memorial Hospital,Person Memorial Hospital,953396,38,4
+1,Randolph Hospital,0,Randolph,35.711632,-79.813751,Randolph Hospital,"Randolph Hospital, Inc.",933425,145,10
+1,Rex Healthcare,1,Wake,35.8181161,-78.7032625,Rex Healthcare,Rex Hospital,953429,439,83
+1,Rutherford Hospital,0,Rutherford,35.362175,-81.966125,Rutherford Hospital,Rutherford Regional Medical Center,923438,129,10
+1,Saint Luke's Hospital,0,Polk,35.2394986,-82.21258881,Saint Luke'S Hospital,St. Luke's Hospital,943469,25,3
+1,Sampson County Memorial Hospital,0,Sampson,35.0070507,-78.3248125,Sampson County Memorial Hospital,Sampson Regional Medical Center,943443,116,8
+1,Scotland Health Care System,0,Scotland,34.75325,-79.469597,Scotland Health Care System,Scotland Memorial Hospital and Edwin Morgan Center,933446,97,12
+1,Sentara Albemarle Medical Center,0,Pasquotank,36.32361625,-76.21861903,Sentara Albemarle Medical Center,Sentara Albemarle Medical Center,952933,182,10
+1,Southeastern Regional Medical Center,0,Robeson,34.6372399,-79.0119809,Southeastern Regional Medical Center,Southeastern Regional Medical Center,923461,292,32
+1,Stanly Regional Medical Center,0,Stanly,35.3640747,-80.19445209,Stanly Regional Medical Center,Carolinas HealthCare System Stanly,953472,97,10
+1,Transylvania Regional Hospital,0,Transylvania,35.2560121,-82.71182466,Transylvania Regional Hospital,"Transylvania Regional Hospital, Inc.",923509,42,4
+0,UNC Hillsborough,0,Orange,36.0746,-79.09635,Unc Hillsborough,,,,
+1,UNC Rockingham Health Center,0,Rockingham,36.495174,-79.738716,Unc Rockingham Health Center,UNC Rockingham Hospital,943359,108,8
+1,Union Regional Medical Center,0,Union,34.710281,-81.63047,Union Regional Medical Center,Carolinas HealthCare System Union,923515,182,18
+1,University of North Carolina Hospitals,1,Orange,35.903605,-79.050667,University Of North Carolina Hospitals,University of North Carolina Hospitals,923517,799,201
+1,Vidant Beaufort Hospital,0,Beaufort,35.54923895,-77.03809766,Vidant Beaufort Hospital,Vidant Beaufort Hospital,932963,120,6
+1,Vidant Bertie Hospital,0,Bertie,35.9885957,-76.92894313,Vidant Bertie Hospital,Vidant Bertie  Hospital,942967,6,1
+1,Vidant Chowan Hospital,0,Chowan,36.06984615,-76.61089791,Vidant Chowan Hospital,Vidant Chowan Hospital,933102,49,5
+1,Vidant Duplin Hospital,0,Duplin,34.9648246,-77.96186573,Vidant Duplin Hospital,Vidant Duplin  Hospital,923139,56,9
+1,Vidant Edgecombe Hospital,0,Edgecombe,35.9212473,-77.55575659,Vidant Edgecombe Hospital,Vidant Edgecombe Hospital,923247,101,8
+1,Vidant Medical Center,0,Pitt,35.60759855,-77.40290417,Vidant Medical Center,Vidant Medical Center,933410,782,180
+1,Vidant Roanoke-Chowan Hospital,0,Hertford,36.28533865,-76.99505917,Vidant Roanoke-Chowan Hospital,Vidant Roanoke-Chowan Hospital,923435,86,10
+1,Wake Forest Baptist Health - Wilkes Medical Center,0,Wilkes,36.160051,-81.15823652,Wilkes Medical Center Patient County Of Residence By Hospital,Wilkes Regional Medical Center,943561,120,8
+1,Wake Forest Baptist Medical Center,0,Forsyth,36.08983775,-80.26771223,Wake Forest Baptist Medical Center,North Carolina Baptist Hospital,943495,802,176
+1,WakeMed,0,Wake,35.784519,-78.587952,Wakemed,WakeMed,943528,628,134
+0,WakeMed Cary,0,Wake,35.74039165,-78.78147066,Wakemed Cary,WakeMed Cary Hospital,990332,178,12
+0,WakeMed North Family Health& Woman's Hospital,0,Wake,35.909081,-78.597839,Wakemed North Family Health& Woman'S Hospital,WakeMed North Family Health& Woman's Hospital,,100,0
+1,Washington County Hospital,0,Washington,35.8626691,-76.72941164,Washington County Hospital,Washington County Hospital,953531,49,5
+1,Watauga Medical Center,0,Watauga,36.19853665,-81.65108916,Watauga Medical Center,"Watauga Medical Center, Inc.",933533,117,12
+1,Wayne Memorial Hospital,1,Wayne,35.398601,-77.951922,Wayne Memorial Hospital,Wayne UNC Healthcare,933535,255,15
+1,Wilson Memorial Hospital,0,Wilson,35.71872625,-77.94366324,Wilson Memorial Hospital,Wilson Medical Center,923569,270,0

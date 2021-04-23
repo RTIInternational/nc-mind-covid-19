@@ -1,0 +1,15 @@
+stages:
+  - test
+
+test_hai:
+  tags:
+    - docker-shell
+  stage: test
+  script:
+  - docker-compose build hai
+  - docker-compose run --rm hai ./scripts/gitlab_helper.sh
+  coverage: '/TOTAL.+ ([0-9]{1,3}%)/'
+  artifacts:
+    when: on_failure
+    expire_in: 1 week
+    untracked: true

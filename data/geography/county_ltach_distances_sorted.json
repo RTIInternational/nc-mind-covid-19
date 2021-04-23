@@ -1,0 +1,4202 @@
+{
+    "1": [
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 20.78911970546717
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 21.926260598309838
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 27.92072563904678
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 50.41345041866477
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 74.12613044366667
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 88.45085283503283
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 91.39668408647914
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 105.80489240339224
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 126.74844424349003
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 179.88039630503354
+        }
+    ],
+    "3": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 48.86755931937865
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 49.987105844995334
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 57.048868266412946
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 59.66851602665489
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 78.45188858193568
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 79.00828886107617
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 81.05930396347406
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 127.51935748823541
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 142.02308636117505
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 187.78293390568007
+        }
+    ],
+    "5": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 55.226271793270804
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 80.39840508221735
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 82.33194212786054
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 85.30906108584867
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 96.83170166665144
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 98.21574328611
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 101.68270779969211
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 128.79759662809786
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 160.8969820039835
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 188.56761736168676
+        }
+    ],
+    "7": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 43.558546991232255
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 44.88482280778376
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 68.71614071689318
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 70.87435897199887
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 76.59941621411598
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 76.9286702206134
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 79.21928125678335
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 99.7283689046392
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 145.001618277764
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 145.59230880200215
+        }
+    ],
+    "9": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 72.0646204513463
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 83.1997837575985
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 89.00600767740615
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 92.29929350334876
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 99.06174678760277
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 99.34731082388124
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 100.70949021818721
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 148.2587621368542
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 175.45036894718916
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 208.43018373458293
+        }
+    ],
+    "11": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 49.14598789954575
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 74.57485967759389
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 84.82630336419773
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 89.92848362178586
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 90.92581037819808
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 119.58636222525233
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 120.54329792745474
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 169.24970636383475
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 184.89743033932854
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 229.7685436413728
+        }
+    ],
+    "13": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 62.68625087314438
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 116.41131119618117
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 119.40543581793251
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 166.5476566506384
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 168.11510570289582
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 195.8357870393744
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 217.89408157290453
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 226.46043524393744
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 252.2846998809406
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 318.9255268285908
+        }
+    ],
+    "15": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 47.87615660912126
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 107.81552122335806
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 128.2052726429738
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 156.48762010056126
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 157.371491370897
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 186.04751548494653
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 218.47268746711833
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 229.4219874781068
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 254.1458578184366
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 314.8005092535823
+        }
+    ],
+    "17": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 34.73872856379871
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 98.97624897240507
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 101.62326888467261
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 119.37421793943125
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 122.28282497431637
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 132.49566442619368
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 135.14141483427602
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 139.8156680985478
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 160.91802376442317
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 235.24718512224865
+        }
+    ],
+    "19": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 78.53192357827656
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 132.60573293242402
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 141.28941447128898
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 163.05173612995782
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 165.98165501594886
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 168.33440133227143
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 168.57805489023875
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 182.50471323060384
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 192.88155231603756
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 268.69524962420667
+        }
+    ],
+    "21": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 3.6603708268590083
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 76.24354586309892
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 100.34378302782608
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 102.72230160807213
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 128.70653698138676
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 157.00045352917726
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 157.37640346100537
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 205.45646021630287
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 209.21979387724346
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 265.18313320908044
+        }
+    ],
+    "23": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 46.5275244769962
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 50.952755066123
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 59.207096378042685
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 62.38024247015999
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 80.2028153848702
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 108.22969763071913
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 108.51494975749688
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 156.48685854899614
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 163.3530092291106
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 216.23410671147144
+        }
+    ],
+    "25": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 12.361992492839786
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 27.599361235550507
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 48.1149583744727
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 48.517235970845064
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 63.008297427830314
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 64.46012120612828
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 97.81918583411137
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 103.21647125923596
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 112.64403388111154
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 159.08977951908503
+        }
+    ],
+    "27": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 58.48480600361156
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 61.97718379749863
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 62.73092107193018
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 69.05532916082281
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 69.37775629928095
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 98.00472350824117
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 98.67899412632954
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 147.28617832910564
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 160.79574603941697
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 207.62083478870395
+        }
+    ],
+    "29": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 98.3051480977066
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 156.82977591384522
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 178.42006602825
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 205.0812761358926
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 205.70107296607816
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 234.359075639837
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 269.1830005294804
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 280.3543788545549
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 304.9376566758668
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 364.23139599865243
+        }
+    ],
+    "31": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 103.88762128563367
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 131.03799931233178
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 153.74195258517676
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 197.3590907424731
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 199.38435475217486
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 225.37958368404446
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 237.50383637646996
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 243.4187731201154
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 269.5910520031558
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 340.7370457598663
+        }
+    ],
+    "33": [
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 33.107515429793224
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 34.42500342777953
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 35.09083788267834
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 58.378287500194624
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 89.67797057778196
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 96.35019030905991
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 109.5468786668343
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 124.93737427642202
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 143.50747514408562
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 188.8564970449236
+        }
+    ],
+    "35": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 36.40085377902298
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 39.643164778546854
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 44.277462950670454
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 58.14282029421676
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 75.7000870176489
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 84.89506147265325
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 84.94413463682002
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 132.069012010915
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 137.91694450482993
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 191.3465216416891
+        }
+    ],
+    "37": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 29.73914073208188
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 37.02751780708046
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 39.58614504124819
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 49.99028684450547
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 63.64498196442389
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 82.24390323922862
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 88.81482101659664
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 100.93741986421884
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 124.69841066635574
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 185.77898456253095
+        }
+    ],
+    "39": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 92.51440176031633
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 155.9959075454555
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 182.1666931466101
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 189.46570576621417
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 223.33650109290267
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 251.3265776730816
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 251.51605773692322
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 294.6597172336126
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 298.9634946677943
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 357.8684133935804
+        }
+    ],
+    "41": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 67.19837376583979
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 127.14424572502386
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 145.4587830235489
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 175.79973764658354
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 176.65873837936525
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 205.34229379889672
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 237.59156090059173
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 248.35997294261082
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 273.206772486922
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 334.14977310522033
+        }
+    ],
+    "43": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 75.8840761956131
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 135.91645042635488
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 162.0652300143206
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 169.80743038612096
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 205.72978428082655
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 233.4004376584539
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 233.4631322700414
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 274.5536994772878
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 280.4822485140438
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 338.98046922322686
+        }
+    ],
+    "45": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 19.622618794413203
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 41.66292965306185
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 45.418808794378144
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 58.96968232068404
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 87.09211471121125
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 111.73666784739154
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 112.22137243808655
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 151.85293721050977
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 156.82785704066396
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 214.382007334238
+        }
+    ],
+    "47": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 54.75892286496111
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 121.72927295942209
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 125.92380275425211
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 136.93912940030566
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 137.55489210589917
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 137.8100139414368
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 139.94400136048534
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 154.27838511898779
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 162.230767287529
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 237.9662232091317
+        }
+    ],
+    "49": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 75.45340442515759
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 104.55561097083785
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 123.60151623558828
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 167.43398975993165
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 169.41598814997542
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 195.6622832151356
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 210.1424678009667
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 216.95124052498622
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 243.09161071072515
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 312.95659557297455
+        }
+    ],
+    "51": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 2.839315659154981
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 68.3811823958814
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 85.75983541090353
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 86.78120069374127
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 89.65354202312928
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 108.52580667005142
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 109.47605151750014
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 115.29804212539084
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 141.46731709139877
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 212.90584968000468
+        }
+    ],
+    "53": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 110.65666882292504
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 168.74699241117276
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 191.0572412839529
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 216.82412265783873
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 217.37627055726318
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 245.9963896953363
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 281.52517270962045
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 292.80051457583977
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 317.3102733611141
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 376.11395574234655
+        }
+    ],
+    "55": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 122.1782657182504
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 182.52213229248596
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 185.18695410324378
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 230.98028261303818
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 232.20649854183276
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 260.59542613884696
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 286.2619404286405
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 295.17767567425295
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 320.9154143957739
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 386.3835356371984
+        }
+    ],
+    "57": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 20.16828633289564
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 30.529869863493257
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 31.617897599883246
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 45.00032730841256
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 60.77700777948477
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 75.4844382092937
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 78.9063572985989
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 90.26064809218438
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 132.36294210139002
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 134.62840278094788
+        }
+    ],
+    "59": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 16.780734245160648
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 43.885484279740666
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 44.1852680343034
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 44.96407049896711
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 60.968730521698696
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 72.41073790520421
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 92.50122209777695
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 111.55257838373744
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 115.28585999236843
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 152.71890071074068
+        }
+    ],
+    "61": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 54.76246327933232
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 70.92301982087372
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 92.89593977250702
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 128.5139001771063
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 130.96787484264712
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 154.38909573172953
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 161.36920048728416
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 167.0862173648803
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 193.25886368124137
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 264.74987707971576
+        }
+    ],
+    "63": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 1.9037054859703237
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 50.156294600221266
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 51.26086231044216
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 59.07326347929305
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 66.44529605164648
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 79.79116583205551
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 116.2097833156255
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 129.3149075615199
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 152.08828404845363
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 208.625568614195
+        }
+    ],
+    "65": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 13.087837422805
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 73.45354321894895
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 94.20069431130244
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 122.07010616715945
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 123.19263797286234
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 151.7095904197136
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 182.34228614608227
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 193.24988620393114
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 217.98712294040857
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 279.35339189333325
+        }
+    ],
+    "67": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 5.990752459606742
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 25.761255663132967
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 27.24657959874875
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 64.60199963646788
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 75.45017974335533
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 80.84454056210745
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 94.45751152335882
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 107.1654568987121
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 135.362038726479
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 135.9738478588021
+        }
+    ],
+    "69": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 27.115323138459775
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 35.08453392567006
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 80.0263184625889
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 83.54790518742702
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 84.36085389419513
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 113.04929663380784
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 149.2876743919261
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 161.7696451387067
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 185.21251378900652
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 242.48623398978864
+        }
+    ],
+    "71": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 15.044557281894347
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 21.738136179953642
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 24.434517937155018
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 73.5701287548578
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 80.02706568083539
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 95.18528660150001
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 96.05945561773197
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 130.6254151383628
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 138.29133203058194
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 194.75818434533045
+        }
+    ],
+    "73": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 70.86921056488912
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 126.31886163661463
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 156.03225868156377
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 173.87866336097187
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 174.30702905781365
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 202.83634756538697
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 240.49468628875712
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 252.45477736449462
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 276.40004937625855
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 333.3255902064367
+        }
+    ],
+    "75": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 73.94477988761268
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 142.4101963833894
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 168.47088828952164
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 174.3865766573958
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 204.7677926372898
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 233.05265977839557
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 233.39743092808504
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 280.56690363552525
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 281.3222428562609
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 340.7690955329495
+        }
+    ],
+    "77": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 23.773789379376822
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 52.650765183761116
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 64.84008690609326
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 64.927783905452
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 88.26984834278996
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 93.17126722970531
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 136.53785924633488
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 150.47487394425838
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 172.09347641302182
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 224.02713242151302
+        }
+    ],
+    "79": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 34.786797072435796
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 74.7771094203206
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 78.87542341581292
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 124.16104574937727
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 125.94318739302969
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 153.058425307207
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 173.9778266770164
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 182.83636731108447
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 208.548638481339
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 274.94641455488295
+        }
+    ],
+    "81": [
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 0.30456446186356645
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 2.845254824116881
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 28.541270959074392
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 49.87040283071038
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 76.20750192489072
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 87.43694881322506
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 91.73415200250248
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 110.16384054722371
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 110.41952845341346
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 158.9460640691709
+        }
+    ],
+    "83": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 21.02030317113199
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 70.43205987097274
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 107.24345734070255
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 118.32666936108308
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 118.89997294838636
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 147.5471677852662
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 184.79621518498516
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 197.0694463329023
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 220.71888476821513
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 277.65551270742105
+        }
+    ],
+    "85": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 23.051084972965555
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 44.774356727708316
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 68.4168564095072
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 70.99181864853738
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 71.04734812239633
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 93.55840202724566
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 106.61715665082632
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 115.49271420098808
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 141.12921611140683
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 208.3782213731924
+        }
+    ],
+    "87": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 24.905965086400105
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 98.30728238705868
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 123.63465057959435
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 127.65386330724235
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 155.5163702007914
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 183.82592347811664
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 184.1994696516542
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 232.2415202709484
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 234.28656300875073
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 291.88421828066936
+        }
+    ],
+    "89": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 17.30502432643428
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 65.96892922737119
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 91.70694957207888
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 97.14418242877598
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 132.0153930146231
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 159.35355829372395
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 159.36585588028444
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 203.4012707170952
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 206.2569848310109
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 264.89422257166314
+        }
+    ],
+    "91": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 52.52498911473787
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 107.8198297465791
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 138.53613031728932
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 155.5854905066357
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 156.0811422586023
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 184.67173342114373
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 221.8691348984051
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 233.84142807813336
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 257.77390058732146
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 314.9848990344633
+        }
+    ],
+    "93": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 20.20158640135077
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 72.23934320095655
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 76.45785280484371
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 79.49450229233918
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 87.29619839414205
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 92.48940804679734
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 93.50734884672531
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 103.21457836274655
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 118.662649809516
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 190.75244384674363
+        }
+    ],
+    "95": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 103.435019841898
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 158.0423267179053
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 162.1939957425041
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 209.8210722417145
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 211.3074841898879
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 239.213346742901
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 261.11020522082714
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 269.26731231046807
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 295.21123616178073
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 362.46364225896554
+        }
+    ],
+    "97": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 35.53714138687563
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 37.36144822769519
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 49.346905117857204
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 54.76362972441364
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 64.33695293838052
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 64.42044419437143
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 95.25502044316755
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 112.14865337559363
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 123.8849032425871
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 171.92265478808426
+        }
+    ],
+    "99": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 38.52738918152363
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 102.90500549417315
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 128.97019698898745
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 135.1449591780161
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 168.5083645248746
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 196.34499754731763
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 196.485925194262
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 241.1364366645245
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 243.84628417097062
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 302.78156970315683
+        }
+    ],
+    "101": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 43.61937983658798
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 43.64726371396971
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 45.74146038527031
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 86.09886381127251
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 88.15589491538279
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 114.29668296559525
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 134.6584823164228
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 144.19030610018038
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 169.61792380304007
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 235.1606059747375
+        }
+    ],
+    "103": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 70.69716570798171
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 88.761567603414
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 112.73572501294997
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 154.7225264385388
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 156.84560281705402
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 182.40584518151513
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 194.76172473854928
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 201.24443969202653
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 227.4042590634812
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 297.8041024600619
+        }
+    ],
+    "105": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 32.3150881730291
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 41.66727545884587
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 52.86391845898151
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 55.67274338451078
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 76.6092255795137
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 82.52159839008284
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 90.61371958238145
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 100.50425211351809
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 125.70367001650527
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 191.53611326966586
+        }
+    ],
+    "107": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 50.07399655290572
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 71.60679071980562
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 88.52371269296744
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 131.21295347674945
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 133.24735968838607
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 159.3219358953778
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 175.20289232116605
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 182.8556896520426
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 208.8736346841353
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 277.5006448970885
+        }
+    ],
+    "109": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 27.090109069062702
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 28.728264101143253
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 32.95588559358501
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 65.12134300935777
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 76.03639773432532
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 89.54038156818207
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 90.00642298492757
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 134.38035179756048
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 135.01839971032598
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 193.13100286720504
+        }
+    ],
+    "113": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 56.51563864462799
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 116.86913667140774
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 143.04246278656333
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 150.3341278592957
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 185.8913132387101
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 213.5301114078598
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 213.58775139577182
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 255.52439910277906
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 260.6213337017208
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 319.18768839311
+        }
+    ],
+    "115": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 20.13384629603782
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 92.04243459729386
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 115.05142321499584
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 115.77389277621917
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 135.11850999638463
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 163.77133300271035
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 164.4539496121695
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 213.03564120027366
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 221.4703227006657
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 273.29641758918234
+        }
+    ],
+    "117": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 42.240517673698264
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 102.40148450464639
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 113.92642089440112
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 150.875199369131
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 152.08449627517777
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 180.50055687276176
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 208.70368870151148
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 218.79069728083184
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 244.01359559536695
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 307.2088208241121
+        }
+    ],
+    "111": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 28.82664389134646
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 55.45668471839049
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 76.99479188008443
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 77.3121097215035
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 102.23674367905953
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 130.34442236872886
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 130.64214584901703
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 178.58608385091185
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 183.27118833090813
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 238.24512286318412
+        }
+    ],
+    "119": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 6.152476122405783
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 10.294023762477376
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 30.75965375850732
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 64.67066385886673
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 81.22819940397119
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 82.60830862481859
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 100.85997152933038
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 109.737438205254
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 121.04134868055337
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 175.89933048874877
+        }
+    ],
+    "121": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 37.19465024654904
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 76.25530627501453
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 91.5569075961829
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 94.62574567992115
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 102.95909644375519
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 131.65256821649407
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 132.4944460516741
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 181.19158304725778
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 194.21656045343772
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 241.64101037451414
+        }
+    ],
+    "123": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 48.031284060236985
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 50.109944251983094
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 52.87483988892348
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 56.0305172615288
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 57.506880791618364
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 60.19829067885896
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 74.3236266970045
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 82.70736744779485
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 124.878595933272
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 150.6256158736327
+        }
+    ],
+    "125": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 37.49274973012516
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 53.87754218672404
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 56.92791968267984
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 59.93276161826954
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 70.33815760203477
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 71.84601184729084
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 80.36894440278137
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 103.77558799545662
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 106.0331680718183
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 174.48076564381412
+        }
+    ],
+    "127": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 8.71046383708393
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 51.882891960402475
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 82.67086272006343
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 100.58022121635484
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 101.61965241627739
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 130.20864076500467
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 163.00129084438714
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 174.60868266093226
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 198.83527041056115
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 258.55862474986617
+        }
+    ],
+    "129": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 78.5650097475526
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 116.98119997178493
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 134.43400068116995
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 162.42255641850272
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 165.2081007900314
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 177.77975129991344
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 179.4255767930927
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 184.6266467519919
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 204.7879411097503
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 279.88359400403476
+        }
+    ],
+    "131": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 39.987993341498715
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 89.71625835649438
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 127.13429016830253
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 136.74929724158878
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 137.1035969259885
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 165.57271106933345
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 204.71726236356213
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 217.22094339343624
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 240.6395047013156
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 296.2068964693334
+        }
+    ],
+    "133": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 84.17843839570843
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 85.17900078814775
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 119.53544356026318
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 158.2193721924674
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 160.56338692570918
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 184.7087038061918
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 191.79396676955074
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 196.9799136737289
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 223.12517589394488
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 295.2412006008872
+        }
+    ],
+    "135": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 12.263111208886068
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 36.5504716627602
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 37.50690654437991
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 66.13077068058686
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 70.54994781781144
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 72.7906594558706
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 105.41077223553609
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 119.22180931036523
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 141.0850952668054
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 195.60486962595778
+        }
+    ],
+    "137": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 82.16814593933334
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 118.60234622059664
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 134.13248078867588
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 179.15952410566965
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 181.02919826816478
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 207.74557416431068
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 223.83580488332132
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 230.88925146267417
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 257.009092265745
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 326.43881882226856
+        }
+    ],
+    "139": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 91.66703737401642
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 150.76191671430234
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 170.82900004574844
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 199.19107478224743
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 199.89050933047722
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 228.57549606529776
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 262.45933686471625
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 273.4498113350777
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 298.1577170618103
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 358.11816353677267
+        }
+    ],
+    "141": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 67.04680475444997
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 99.48882495925761
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 118.40815371078408
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 148.98283037889485
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 151.6723037976972
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 170.52906316665877
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 172.5455811506969
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 173.66873219651004
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 199.5021954226488
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 273.58965661528777
+        }
+    ],
+    "143": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 79.4278353508377
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 138.78058245230338
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 158.68791990629322
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 187.29903035908112
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 188.05040689968277
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 216.74322005728166
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 250.16421980853278
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 261.11867392332493
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 285.84798427427
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 346.06665500129253
+        }
+    ],
+    "145": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 25.303742724785295
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 49.29066347497339
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 49.81127029954814
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 71.4650467101735
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 76.49440820582198
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 92.71850916505811
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 124.1030601252143
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 138.8577455488447
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 158.99731199832462
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 207.38444191537695
+        }
+    ],
+    "147": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 35.48471660062728
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 90.74484100000195
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 93.94919156041757
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 138.03986676189348
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 139.56036058820692
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 167.41358111071358
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 191.6142143392391
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 200.977790104974
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 226.5180678341793
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 291.6549544716321
+        }
+    ],
+    "149": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 29.68200633101891
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 49.04000189484811
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 74.83128118564531
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 80.77539622179243
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 119.03064542848593
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 145.44257066504954
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 145.65085912372504
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 186.73978844114558
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 191.597268936026
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 249.66786233492564
+        }
+    ],
+    "151": [
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 23.146129314336562
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 26.012525163855948
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 37.48750525708037
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 55.04200087533245
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 60.48581310629
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 68.58038413236889
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 74.23582127610672
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 96.29544130527407
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 112.28122173034312
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 155.2012876631838
+        }
+    ],
+    "153": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 47.929655146323725
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 60.51104300088892
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 64.75441014392831
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 70.3792874336337
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 73.32017133395898
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 78.78205937456083
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 83.8630651573281
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 90.92154894522606
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 125.80603794774792
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 163.6860761720469
+        }
+    ],
+    "155": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 30.351492063101603
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 96.34136199373054
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 103.80838181314026
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 104.12241488887624
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 105.55543249902233
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 106.85053754463296
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 116.15256277616237
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 119.4722439006968
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 131.08389147944956
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 205.97511835991656
+        }
+    ],
+    "157": [
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 20.901446818133813
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 23.722806524369275
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 37.96866725065406
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 53.15549802405446
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 93.71001903165559
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 104.05147525649802
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 109.71230793221716
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 111.27531021411234
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 125.83184528153248
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 166.93351486664594
+        }
+    ],
+    "159": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 25.915821182532923
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 32.882112895753075
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 42.133442147054026
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 50.87889250663773
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 51.84414861028245
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 58.596755820875615
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 94.98035881373853
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 100.23230969439139
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 114.5449499286909
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 153.1496763541164
+        }
+    ],
+    "161": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 37.86806782841813
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 38.62415513047469
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 61.8942727143319
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 65.53984103892745
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 101.43816264969722
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 127.97299852279981
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 128.13917106854018
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 172.12645139530872
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 174.4075645200876
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 232.82654663135693
+        }
+    ],
+    "163": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 30.08415415394327
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 73.03608628024895
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 77.17347184560107
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 107.04945648375879
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 109.6790218154009
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 131.6128759847916
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 136.66666548749507
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 142.5233606993785
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 168.69584984440002
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 240.0498333565645
+        }
+    ],
+    "165": [
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 36.618044094830495
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 77.51643437809116
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 80.05510022697216
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 83.29552135522117
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 86.32752154084055
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 87.50887829456623
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 95.12945426002787
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 105.99017858372946
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 121.23933898949748
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 180.04149711466755
+        }
+    ],
+    "167": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 28.74850789148665
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 39.187119388149725
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 51.8510782169554
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 56.56500507694037
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 58.7481656300449
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 63.73432905510724
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 78.6556258194622
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 89.94579650769322
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 131.58782825099948
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 143.13888130665416
+        }
+    ],
+    "169": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 23.630226984255543
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 33.15819941286855
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 35.81705970288527
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 78.60434684316941
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 81.60747929856525
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 97.79389574871303
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 109.290952612779
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 120.15677771588047
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 137.8793504980435
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 142.1662413764906
+        }
+    ],
+    "171": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 32.467391682987355
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 55.720236178021274
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 57.77488838131784
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 76.38394638220679
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 91.45772045589142
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 96.78650725114314
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 103.92051287533366
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 118.47197978011226
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 138.4344086021377
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 163.7593240782195
+        }
+    ],
+    "173": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 52.28645664542439
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 122.8864083103034
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 148.73054940486028
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 153.85202943323867
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 182.98017848554082
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 211.30107950532647
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 211.67284964330727
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 259.6841064189988
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 260.32487655370625
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 319.2538759915795
+        }
+    ],
+    "175": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 29.162270358220322
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 81.64289521670474
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 107.79168627133326
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 114.75308573202771
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 151.76016055917526
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 178.89641529400873
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 178.96716283754444
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 220.18480790333686
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 225.50593669338298
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 283.7918215929947
+        }
+    ],
+    "177": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 90.89179373999652
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 151.42967803882684
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 159.9653499600648
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 200.06809578646016
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 201.175323144415
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 229.70758466942357
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 257.89204418789177
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 267.5829808299151
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 293.01275407361663
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 356.7533371160862
+        }
+    ],
+    "179": [
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 21.90217785514801
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 26.154049052063804
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 47.4281453056721
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 76.42005459236363
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 84.80596766014747
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 86.9063802276459
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 92.26209395724992
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 116.51574355696864
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 122.41590429446178
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 166.41088878559657
+        }
+    ],
+    "181": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 35.78774887792772
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 43.21749450394673
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 79.01246124703316
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 79.09919224264391
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 94.85624267301611
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 107.29616437123944
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 150.27568128912992
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 163.99208849291065
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 185.92936315877074
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 238.18154531574865
+        }
+    ],
+    "183": [
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 23.082016288954293
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 45.877803301483596
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 53.58414170426375
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 67.21852793582345
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 68.88462807782709
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 96.47011821913136
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 125.00214284987305
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 136.4659841167401
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 160.782120492889
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 222.03083166019448
+        }
+    ],
+    "185": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 32.9219196166168
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 50.66212181845422
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 95.93163657638527
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 96.12631768686833
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 102.07893964146906
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 124.44072828111257
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 166.0687909626556
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 179.38147916518903
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 201.86646291110316
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 255.260960187067
+        }
+    ],
+    "187": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 70.82549156992795
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 131.32386512369243
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 141.05096615845935
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 179.927771524672
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 181.06336087968262
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 209.5662277562863
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 237.85940028437176
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 247.71654552957864
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 273.06352080338394
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 336.5458453989548
+        }
+    ],
+    "189": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 65.67467120256424
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 78.28200868912732
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 79.36157213607444
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 82.31637001734398
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 90.2584465754574
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 106.62458957329453
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 107.84659089804646
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 156.36113561962614
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 176.86079574508383
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 216.89437772805073
+        }
+    ],
+    "191": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 43.87614866061821
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 53.58601542063536
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 68.48742208237834
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 109.696841811452
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 111.79168357699932
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 137.64113335595897
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 154.40487632148873
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 162.6608708595285
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 188.53466054830446
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 256.26310407499733
+        }
+    ],
+    "193": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 47.53070082204394
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 65.32317632710638
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 75.74266979354586
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 76.11142985843311
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 77.0094993340086
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 77.61489088155827
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 90.22401404185746
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 125.47078909675733
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 149.03454435990773
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 185.99931371646906
+        }
+    ],
+    "195": [
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 19.06397227760466
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 59.67374116030251
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 70.86867560248353
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 106.60053982861346
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 108.14488034785309
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 135.96540608220883
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 161.8834702046877
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 172.05813925792404
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 197.20961542075185
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 260.8555172176743
+        }
+    ],
+    "197": [
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 21.764378911646904
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 49.94436003130831
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 51.18016680266575
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 58.2856520477633
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 73.59373951692423
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 80.81360680407668
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 99.68792462688626
+        },
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 112.2810320142075
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 125.8304361409573
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 160.23124777561944
+        }
+    ],
+    "199": [
+        {
+            "Name": "Asheville Specialty Hospital",
+            "distance_mi": 25.333607905978855
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Kings Mountain",
+            "distance_mi": 76.62668422074053
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at University",
+            "distance_mi": 96.34840579359687
+        },
+        {
+            "Name": "Carolinas ContinueCare Hospital at Pineville",
+            "distance_mi": 97.44579727541164
+        },
+        {
+            "Name": "Select Specialty Hospital - Winston Salem",
+            "distance_mi": 113.0906884132796
+        },
+        {
+            "Name": "Select Specialty Hospital-Greensboro",
+            "distance_mi": 141.7442453329164
+        },
+        {
+            "Name": "Kindred Hospital - Greensboro",
+            "distance_mi": 142.43470424955882
+        },
+        {
+            "Name": "Select Specialty Hospital - Durham",
+            "distance_mi": 191.03255198749306
+        },
+        {
+            "Name": "Highsmith-Rainey Specialty Hospital",
+            "distance_mi": 200.9679430455966
+        },
+        {
+            "Name": "LifeCare Hospitals of North Carolina",
+            "distance_mi": 251.32624866702548
+        }
+    ]
+}

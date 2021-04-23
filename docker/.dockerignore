@@ -1,0 +1,18 @@
+.git/
+
+build
+dist
+*.egg-info
+*.egg/
+*.pyc
+*.swp
+
+.tox
+.coverage
+html/*
+*.pyc
+**/__pycache__
+htmlcov/*
+
+# Compiled Documentation
+docs/_build

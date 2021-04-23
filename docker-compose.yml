@@ -1,0 +1,23 @@
+version: '3'
+services:
+  covid:
+    build: ./docker
+    image: covid:19
+    volumes:
+      - ./:/app
+    working_dir: /app
+  notebook:
+    build: ./docker
+    volumes:
+      - ./:/app
+    working_dir: /app/
+    ports:
+      - "0.0.0.0:1111:8888"
+    expose:
+      - "8888"
+    command:
+      jupyter notebook --allow-root
+  covid_app:
+    build: ./docker
+    volumes:
+     - .:/app

@@ -1,0 +1,52 @@
+synthetic_population_file_parquet:
+    path: data/synthetic_population/synthetic_population.parquet
+# transitions
+location_transitions:
+    path: data/transitions/location_transitions.csv
+community_transitions:
+    path: data/transitions/community_transitions.csv
+locations_by_distance:
+    path: data/transitions/logrecnos.csv
+county_discharges:
+    path: data/discharges/county_discharges.csv
+sheps_demographics:
+    path: data/demographics/breakdown.csv
+six_by_six:
+    path: data/transitions/six_by_six.csv
+location_targets:
+    path: data/transitions/location_targets.csv
+
+county_hospital_distances_sorted:
+    path: data/geography/county_hospital_distances_sorted.json
+county_ltach_distances_sorted:
+    path: data/geography/county_ltach_distances_sorted.json
+county_nh_distances_sorted:
+    path: data/geography/county_nh_distances_sorted.json
+
+# distances
+nh_los:
+    path: data/cLOS_MDS_2016.csv
+nh_los2:
+    path: data/nh_time_until_leaving.csv
+
+# Facilities
+hospital_info:
+    path: data/hospital_beds/hospitals_default.csv
+hospital_crosswalk:
+    path: data/hospital_beds/sensitive/hospital_crosswalk.csv
+hospital_beds:
+    path: data/hospital_beds/hospital_beds.csv
+hospitals:
+    path: data/locations/hospitals.csv
+nursing_homes:
+    path: data/locations/nursing_homes.csv
+ltachs:
+    path: data/locations/ltachs.csv
+
+# county codes
+county_codes:
+    path: data/county_codes.csv
+
+# coalition data
+coalition_hosp:
+    path: data/coalition_data/coalition_hosp_counts.csv

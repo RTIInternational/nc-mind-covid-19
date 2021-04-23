@@ -1,0 +1,105 @@
+Name,Category,County,Total Beds,Acute Beds,ICU Beds,Acute_Covid_Agents,Acute_NonCovid_Agents,ICU_Covid_Agents,ICU_NonCovid_Agents,NonCovid_Agents
+Alamance Regional Medical Center,LARGE,Alamance,524.0,504.0,20.0,37,72,1,15,87
+Alleghany Memorial Hospital,SMALL,Alleghany,41.0,0.0,41.0,0,2,0,0,2
+Angel Medical Center,SMALL,Macon,36.0,28.0,8.0,5,5,0,7,12
+Annie Penn Hospital,SMALL,Rockingham,70.0,58.0,12.0,14,21,0,9,30
+Anson County Hospital,SMALL,Anson,76.0,76.0,0.0,7,3,0,0,3
+Ashe Memorial Hospital,SMALL,Ashe,76.0,76.0,0.0,4,14,0,0,14
+Betsy Johnson Hospital,SMALL,Harnett,111.0,97.0,14.0,20,29,5,1,30
+Blue Ridge HealthCare Hospitals,SMALL,Burke,293.0,275.0,18.0,0,52,18,0,52
+Blue Ridge Regional Hospital,SMALL,Mitchell,25.0,25.0,0.0,11,10,0,0,10
+CMC - Pineville,SMALL,Mecklenburg,264.0,234.0,30.0,53,153,13,15,168
+Caldwell Memorial Hospital,UNC,Caldwell,82.0,70.0,12.0,16,42,7,5,47
+Cape Fear Valley Health System,LARGE,Cumberland,524.0,431.0,93.0,51,415,9,52,467
+Cape Fear Valley Hoke Hospital,SMALL,Hoke,45.0,41.0,4.0,9,12,0,0,12
+Cape Fear Valley-Bladen County Hospital,SMALL,Bladen,25.0,21.0,4.0,3,18,0,0,18
+CaroMont Regional Medical Center,LARGE,Gaston,435.0,410.0,25.0,93,238,6,19,257
+CarolinaEast Medical Center,SMALL,Craven,306.0,222.0,84.0,28,192,6,13,205
+Carolinas HealthCare System Carolinas Medical Center,LARGE,Mecklenburg,1010.0,799.0,211.0,158,715,30,96,811
+Carolinas HealthCare System Kings Mountain Hospital,SMALL,Cleveland,52.0,46.0,6.0,4,40,0,0,40
+Carolinas HealthCare System University Hospital,SMALL,Mecklenburg,127.0,119.0,8.0,28,76,3,5,81
+Carolinas Medical Center - Lincoln,SMALL,Lincoln,101.0,91.0,10.0,22,46,3,5,51
+Carolinas Medical Center Northeast,LARGE,Cabarrus,445.0,381.0,64.0,104,270,13,34,304
+Carteret County General Hospital,SMALL,Carteret,135.0,127.0,8.0,1,75,1,4,79
+Catawba Valley Medical Center,SMALL,Catawba,200.0,167.0,33.0,61,69,10,23,92
+Central Carolina Hospital,SMALL,Lee,150.0,142.0,8.0,6,39,3,5,44
+Central Harnett Health,SMALL,Harnett,100.0,96.0,4.0,11,13,1,3,16
+Charles A. Cannon Jr. Memorial Hospital,SMALL,Avery,25.0,21.0,4.0,0,4,0,0,4
+Chatham Hospital,UNC,Chatham,25.0,21.0,4.0,0,12,0,4,16
+Cleveland Regional Medical Center,SMALL,Cleveland,161.0,143.0,18.0,46,96,5,13,109
+Columbus Regional Healthcare System,SMALL,Columbus,85.0,76.0,9.0,11,45,0,6,51
+Cone Health,LARGE,Guilford,750.0,626.0,124.0,93,262,7,53,315
+Davie County Hospital,SMALL,Davie,50.0,50.0,0.0,0,20,0,0,20
+Davis Medical Center,SMALL,Iredell,150.0,142.0,8.0,0,52,6,2,54
+Duke Raleigh,SMALL,Wake,175.0,160.0,15.0,20,143,2,10,153
+Duke Regional Hospital,SMALL,Durham,380.0,364.0,16.0,28,184,1,15,199
+Duke University Medical Center,LARGE,Durham,975.0,681.0,294.0,41,691,26,90,781
+First Health Montgomery Hospital,SMALL,Montgomery,15.0,15.0,0.0,2,3,0,0,3
+First Health Moore Regional Hospital,SMALL,Moore,337.0,287.0,50.0,48,224,8,19,243
+First Health Richmond Memorial Hospital,SMALL,Richmond,79.0,67.0,12.0,11,29,2,3,32
+FirstHealth Moore Regional Hospital - Hoke Campus,SMALL,Hoke,8.0,8.0,0.0,0,5,0,0,5
+Frye Regional Medical Center,SMALL,Catawba,180.0,156.0,24.0,20,134,7,13,147
+Granville Health System,SMALL,Granville,62.0,56.0,6.0,0,33,2,2,35
+Halifax Regional Medical Center,SMALL,Halifax,220.0,204.0,16.0,13,82,2,4,86
+Haywood Regional Medical Center,SMALL,Haywood,121.0,109.0,12.0,12,67,2,5,72
+High Point Regional Hospital,UNC,Guilford,320.0,270.0,50.0,23,140,13,11,151
+Highlands-Cashiers Hospital,SMALL,Macon,12.0,12.0,0.0,0,0,0,0,0
+Hugh Chatham Memorial Hospital,SMALL,Surry,110.0,41.0,69.0,11,46,1,6,52
+Iredell Health System,SMALL,Iredell,200.0,184.0,16.0,39,75,10,6,81
+J. Arthur Dosher Memorial Hospital,SMALL,Brunswick,25.0,25.0,0.0,0,7,0,0,7
+Johnston Health Clayton,UNC,Johnston,170.0,122.0,48.0,27,49,10,38,87
+Lake Norman Regional Medical Center,SMALL,Iredell,123.0,111.0,12.0,14,35,4,4,39
+Lenoir Memorial Hospital,UNC,Lenoir,159.0,145.0,14.0,20,83,0,11,94
+Lexington Memorial Hospital,SMALL,Davidson,88.0,75.0,13.0,5,35,5,8,43
+LifeBrite Community Hospital of Stokes,SMALL,Stokes,25.0,25.0,0.0,0,8,0,0,8
+Margaret R. Pardee Memorial Hospital,UNC,Henderson,137.0,124.0,13.0,7,56,5,6,62
+Maria Parham Hospital,SMALL,Vance,161.0,83.0,78.0,7,41,2,4,45
+Martin General Hospital,SMALL,Martin,49.0,43.0,6.0,4,-2,2,2,0
+McDowell Hospital,SMALL,McDowell,30.0,24.0,6.0,5,11,0,1,12
+MedWest Harris,SMALL,Jackson,86.0,77.0,9.0,0,56,4,4,60
+MedWest Swain,SMALL,Swain,25.0,25.0,0.0,0,4,0,0,4
+Mission Hospital,LARGE,Buncombe,667.0,520.0,147.0,89,441,23,54,495
+Murphy Medical Center,SMALL,Cherokee,50.0,44.0,6.0,4,17,0,3,20
+Nash Health Care System,UNC,Nash,200.0,188.0,12.0,22,98,2,10,108
+New Hanover Regional Medical Center,LARGE,New Hanover,770.0,725.0,45.0,46,526,10,35,561
+Northern Hospital of Surry County,SMALL,Surry,115.0,105.0,10.0,16,43,7,3,46
+Novant Health Brunswick Medical Center,SMALL,Brunswick,65.0,60.0,5.0,14,56,2,1,57
+Novant Health Forsyth Medical Center,LARGE,Forsyth,870.0,718.0,152.0,126,618,31,69,687
+Novant Health Huntersville Medical Center,SMALL,Mecklenburg,140.0,132.0,8.0,13,138,3,5,143
+Novant Health Matthews Medical Center,SMALL,Mecklenburg,157.0,147.0,10.0,36,138,1,8,146
+Novant Health Medical Park Hospital,SMALL,Forsyth,22.0,22.0,0.0,0,30,0,0,30
+Novant Health Presbyterian Medical Center,LARGE,Mecklenburg,625.0,491.0,134.0,51,469,10,124,593
+Novant Health Rowan Medical Center,SMALL,Rowan,171.0,151.0,20.0,27,124,6,12,136
+Novant Health Thomasville Medical Center,SMALL,Davidson,110.0,97.0,13.0,11,69,5,5,74
+Onslow Memorial Hospital,SMALL,Onslow,162.0,150.0,12.0,4,126,5,1,127
+Outer Banks Hospital,SMALL,Dare,25.0,25.0,0.0,1,12,0,0,12
+Park Ridge Health,SMALL,Henderson,62.0,50.0,12.0,0,60,2,3,63
+Pender Memorial Hospital,SMALL,Pender,25.0,21.0,4.0,0,14,0,0,14
+Person County Memorial Hospital,SMALL,Person,38.0,32.0,6.0,3,8,1,0,8
+Randolph Hospital,SMALL,Randolph,74.0,62.0,12.0,1,42,0,5,47
+Rex Healthcare,UNC,Wake,439.0,285.0,154.0,43,201,17,137,338
+Rutherford Hospital,SMALL,Rutherford,129.0,119.0,10.0,24,23,3,1,24
+Saint Luke's Hospital,SMALL,Polk,25.0,19.0,6.0,0,10,0,5,15
+Sampson County Memorial Hospital,SMALL,Sampson,71.0,63.0,8.0,9,15,3,2,17
+Scotland Health Care System,SMALL,Scotland,97.0,81.0,16.0,18,63,8,8,71
+Sentara Albemarle Medical Center,SMALL,Pasquotank,103.0,73.0,30.0,23,10,8,22,32
+Southeastern Regional Medical Center,SMALL,Robeson,268.0,243.0,25.0,24,123,8,11,134
+Stanly Regional Medical Center,SMALL,Stanly,97.0,87.0,10.0,21,31,0,10,41
+Transylvania Regional Hospital,SMALL,Transylvania,30.0,21.0,9.0,2,12,0,2,14
+UNC Rockingham Health Center,SMALL,Rockingham,71.0,62.0,9.0,6,93,1,6,99
+Union Regional Medical Center,SMALL,Union,161.0,147.0,14.0,44,92,6,8,100
+University of North Carolina Hospitals,UNC,Orange,978.0,787.0,191.0,35,546,22,92,638
+Vidant Beaufort Hospital,SMALL,Beaufort,61.0,49.0,12.0,7,37,3,7,44
+Vidant Bertie Hospital,SMALL,Bertie,6.0,6.0,0.0,0,5,0,0,5
+Vidant Chowan Hospital,SMALL,Chowan,25.0,21.0,4.0,3,18,2,2,20
+Vidant Duplin Hospital,SMALL,Duplin,25.0,16.0,9.0,6,18,5,4,22
+Vidant Edgecombe Hospital,SMALL,Edgecombe,60.0,52.0,8.0,2,47,3,5,52
+Vidant Medical Center,LARGE,Pitt,847.0,685.0,162.0,68,673,20,80,753
+Vidant Roanoke-Chowan Hospital,SMALL,Hertford,114.0,104.0,10.0,1,67,4,6,73
+Wake Forest Baptist Health - Wilkes Medical Center,SMALL,Wilkes,70.0,62.0,8.0,6,36,4,4,40
+Wake Forest Baptist Medical Center,LARGE,Forsyth,728.0,521.0,207.0,39,467,20,77,544
+WakeMed,LARGE,Wake,597.0,475.0,122.0,78,414,22,49,463
+Washington County Hospital,SMALL,Washington,17.0,17.0,0.0,0,8,0,0,8
+Watauga Medical Center,SMALL,Watauga,120.0,104.0,16.0,18,56,6,3,59
+Wayne Memorial Hospital,UNC,Wayne,248.0,228.0,20.0,33,94,2,18,112
+Wilson Memorial Hospital,SMALL,Wilson,206.0,181.0,25.0,25,97,12,3,100

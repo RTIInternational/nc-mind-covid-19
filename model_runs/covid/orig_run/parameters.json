@@ -1,0 +1,265 @@
+{
+    "base": {
+        "time_horizon": 30,
+        "limit_pop": 1000000,
+        "seed": 1111
+    },
+    "life": {
+        "death_probabilities": {
+            "AGE0": 4.6274e-06,
+            "AGE1": 1.80552e-05,
+            "AGE2": 0.0001850824
+        },
+        "death_multipliers": {
+            "COMMUNITY": 0.975,
+            "UNC": 65,
+            "LARGE": 70,
+            "SMALL": 55,
+            "LT": 3,
+            "NH": 6
+        }
+    },
+    "location": {
+        "icu_reduction_multiplier": 0.67,
+        "ventilator_proportion": 0.95,
+        "ventilator_probability": 0.40,
+        "tuning": {
+            "NH_to_ST_to_NH": 0.80
+        },
+        "readmission": {
+            "days": 30,
+            "rate": 0.094
+        },
+        "facilities": {
+            "Caldwell Memorial Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1.04123282,
+                    "support": 4.802,
+                    "mean": 5,
+                    "std": 4.9
+                }
+            },
+            "Chatham Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 0.93751575,
+                    "support": 6.50655738,
+                    "mean": 6.1,
+                    "std": 6.3
+                }
+            },
+            "High Point Regional Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1.048185941,
+                    "support": 4.102325581,
+                    "mean": 4.3,
+                    "std": 4.2
+                }
+            },
+            "Johnston Health Clayton": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1.184256055,
+                    "support": 3.124324324,
+                    "mean": 3.7,
+                    "std": 3.4
+                }
+            },
+            "Lenoir Memorial Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1,
+                    "support": 5,
+                    "mean": 5,
+                    "std": 5
+                }
+            },
+            "Margaret R. Pardee Memorial Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1.41015625,
+                    "support": 2.694736842,
+                    "mean": 3.8,
+                    "std": 3.2
+                }
+            },
+            "Nash Health Care System": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1,
+                    "support": 5.1,
+                    "mean": 5.1,
+                    "std": 5.1
+                }
+            },
+            "Rex Healthcare": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 0.862244898,
+                    "support": 4.523076923,
+                    "mean": 3.9,
+                    "std": 4.2
+                }
+            },
+            "University of North Carolina Hospitals": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 0.366635805,
+                    "support": 18.00151515,
+                    "mean": 6.6,
+                    "std": 10.9
+                }
+            },
+            "Wayne Memorial Hospital": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 1,
+                    "support": 4.3,
+                    "mean": 4.3,
+                    "std": 4.3
+                }
+            },
+            "LARGE": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 0.390625,
+                    "support": 12.8,
+                    "mean": 5,
+                    "std": 8
+                },
+                "location_probabilities": {
+                    "distance_weight": 1,
+                    "bed_count_weight": 1,
+                    "closest_n": 5
+                }
+            },
+            "SMALL": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 0.390625,
+                    "support": 12.8,
+                    "mean": 5,
+                    "std": 8
+                }
+            },
+            "LT": {
+                "los": {
+                    "distribution": "Gamma",
+                    "shape": 144,
+                    "support": 0.416667,
+                    "mean": 60,
+                    "std": 5
+                },
+                "location_probabilities": {
+                    "distance_weight": 1,
+                    "bed_count_weight": 1,
+                    "closest_n": 5
+                }
+            },
+            "NH": {
+                "location_probabilities": {
+                    "distance_weight": 1,
+                    "bed_count_weight": 1,
+                    "closest_n": 10
+                }
+            },
+            "COMMUNITY": {
+                "age": {
+                    "0": 0.001299155,
+                    "1": 0.00139902,
+                    "2": 0.001698556
+                }
+            }
+        }
+    },
+    "covid19": {
+        "counties": [],
+        "r0": 1.1,
+        "r0_min": 1.0,
+        "r0_max": 1.2,
+        "los_mean": 3,
+        "los_std": 5,
+        "los_min": 0,
+        "los_max": 50,
+        "infection_duration": 14,
+        "ratio_to_hospital": 0.0,
+        "p_tested": 0.17,
+        "start_day": 50,
+        "icu_with_ventilator_p": 0.75,
+        "initial_case_multiplier": 6.0,
+        "percent_remaining_susceptible": 0.90,
+        "hospital_to_nh_non_icu": 0.1,
+        "hospital_to_nh_icu": 0.2,
+        "prop_of_covid_hospitalized_to_icu": 0.25,
+        "p_hospitalized_concurrent_conditions": 0.25,
+        "distributions": {
+            "ages_getcovid": {
+                "ranges": [
+                    0,
+                    50,
+                    65,
+                    105
+                ],
+                "distribution": [
+                    0.396,
+                    0.328,
+                    0.276
+                ]
+            },
+            "p_covidhospitalized_tested_concurrent": {
+                "ages": [
+                    0,
+                    50,
+                    65,
+                    105
+                ],
+                "distribution": [
+                    0.0,
+                    0.4609,
+                    0.4111
+                ]
+            },
+            "p_covidhospitalized_tested_noconcurrent": {
+                "ages": [
+                    0,
+                    50,
+                    65,
+                    105
+                ],
+                "distribution": [
+                    0.0367,
+                    0.0350,
+                    0.1213
+                ]
+            },
+            "p_covidhospitalized_nottested_concurrent": {
+                "ages": [
+                    0,
+                    50,
+                    65,
+                    105
+                ],
+                "distribution": [
+                    0.0,
+                    0.0651,
+                    0.0580
+                ]
+            },
+            "p_covidhospitalized_nottested_noconcurrent": {
+                "ages": [
+                    0,
+                    50,
+                    65,
+                    105
+                ],
+                "distribution": [
+                    0.0052,
+                    0.0049,
+                    0.0171
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+	"base": {
+		"time_horizon": 365,
+		"limit_pop": 2000000,
+		"seed": 1111
+	},
+	"life": {
+		"death_probabilities": {
+			"AGE0": 0.0000046274,
+			"AGE1": 0.0000180552,
+			"AGE2": 0.0001850824
+		},
+		"death_multipliers": {
+			"COMMUNITY": 0.975,
+			"UNC": 65,
+			"LARGE": 70,
+			"SMALL": 55,
+			"LT": 3,
+			"NH": 6
+		}
+	},
+	"location": {
+		"icu_reduction_multiplier": 0.67,
+		"ventilator_proportion": 0.95,
+		"ventilator_probability": 0.40,
+		"tuning": {
+			"NH_to_ST_to_NH": 0.80
+		},
+		"readmission": {
+			"days": 30,
+			"rate": 0.094
+		},
+		"facilities": {
+			"Caldwell Memorial Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1.04123282,
+					"support": 4.802,
+					"mean": 5,
+					"std": 4.9
+				}
+			},
+			"Chatham Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 0.93751575,
+					"support": 6.50655738,
+					"mean": 6.1,
+					"std": 6.3
+				}
+			},
+			"High Point Regional Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1.048185941,
+					"support": 4.102325581,
+					"mean": 4.3,
+					"std": 4.2
+				}
+			},
+			"Johnston Health Clayton": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1.184256055,
+					"support": 3.124324324,
+					"mean": 3.7,
+					"std": 3.4
+				}
+			},
+			"Lenoir Memorial Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1,
+					"support": 5,
+					"mean": 5,
+					"std": 5
+				}
+			},
+			"Margaret R. Pardee Memorial Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1.41015625,
+					"support": 2.694736842,
+					"mean": 3.8,
+					"std": 3.2
+				}
+			},
+			"Nash Health Care System": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1,
+					"support": 5.1,
+					"mean": 5.1,
+					"std": 5.1
+				}
+			},
+			"Rex Healthcare": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 0.862244898,
+					"support": 4.523076923,
+					"mean": 3.9,
+					"std": 4.2
+				}
+			},
+			"University of North Carolina Hospitals": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 0.366635805,
+					"support": 18.00151515,
+					"mean": 6.6,
+					"std": 10.9
+				}
+			},
+			"Wayne Memorial Hospital": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 1,
+					"support": 4.3,
+					"mean": 4.3,
+					"std": 4.3
+				}
+			},
+			"LARGE": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 0.390625,
+					"support": 12.8,
+					"mean": 5,
+					"std": 8
+				},
+				"location_probabilities": {
+					"distance_weight": 1,
+					"bed_count_weight": 1,
+					"closest_n": 5
+				}
+			},
+			"SMALL": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 0.390625,
+					"support": 12.8,
+					"mean": 5,
+					"std": 8
+				}
+			},
+			"LT": {
+				"los": {
+					"distribution": "Gamma",
+					"shape": 144,
+					"support": 0.416667,
+					"mean": 60,
+					"std": 5
+				},
+				"location_probabilities": {
+					"distance_weight": 1,
+					"bed_count_weight": 1,
+					"closest_n": 5
+				}
+			},
+			"NH": {
+				"location_probabilities": {
+					"distance_weight": 1,
+					"bed_count_weight": 1,
+					"closest_n": 10
+				}
+			},
+			"COMMUNITY": {
+				"age": {
+					"0": 0.001299155,
+					"1": 0.00139902,
+					"2": 0.001698556
+				}
+			}
+		}
+	}
+}
