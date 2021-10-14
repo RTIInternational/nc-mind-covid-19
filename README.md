@@ -29,7 +29,7 @@ bash ./scripts/run_all.sh
 
 ## 📕 Documentation
 
-The Overview, Design Concepts, Details (ODD) Protocol document is being publihed on [arXiv](https://arxiv.org/) and will be available shortly.  
+The Overview, Design Concepts, Details (ODD) Protocol document is available on [arXiv](https://arxiv.org/abs/2106.04461). This document provides complete details on how the model works.
 
 ## ▶️ Next Steps
 
